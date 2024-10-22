@@ -4,4 +4,4 @@ _Proyecto simple para consumir API y convertir monedas según un menú._
 
 ## Autor ✒️
 
-* **Luis Mejías Rojas** - [villanuevand](https://github.com/LuisMejiasR)
+* **Luis Mejías Rojas** - [luismejiasr](https://github.com/LuisMejiasR)
