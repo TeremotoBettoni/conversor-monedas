@@ -3,4 +3,5 @@ public record ConversionERAPI(double conversion_result) {
     public String toString() {
         return "" + conversion_result;
     }
+
 }

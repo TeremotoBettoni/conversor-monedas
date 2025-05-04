@@ -21,7 +21,6 @@ public class ConsultaConversion {
         } catch (IOException | InterruptedException e) {
             throw new RuntimeException(e);
         }
-
         return new Gson().fromJson(response.body(), ConversionERAPI.class);
     }
 }
